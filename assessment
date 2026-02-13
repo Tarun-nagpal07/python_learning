@@ -1,0 +1,9 @@
+git init
+
+git branch (local)
+
+git branch (-r) saare
+
+git branch -a (remote)
+
+git branch -v (shows the last commit of all branches)
