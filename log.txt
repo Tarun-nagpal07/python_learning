@@ -1,0 +1,9 @@
+INFO: Application started
+INFO: User logged in
+WARNING: Disk space running low
+ERROR: Failed to connect to database
+INFO: Processing request
+WARNING: High memory usage detected
+ERROR: Unable to open file
+INFO: Request completed
+ERROR: Timeout occurred
